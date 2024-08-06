@@ -1,4 +1,4 @@
-# a
+# App the contabilidad para gestion y calculo ISR
 
 An Electron application with React and TypeScript
 
