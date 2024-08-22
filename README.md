@@ -1,6 +1,6 @@
 # App the contabilidad para gestion y calculo ISR
 
-An Electron application with React and TypeScript
+Esta aplicación fue desarrollada con la intención de apoyar a un amigo en sus prácticas pero sin desaprovechar su oportunidad de comercialización. 
 
 ## Recommended IDE Setup
 
